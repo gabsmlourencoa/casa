@@ -8,8 +8,8 @@ identifier:
 spatial:
 - type: site
   term: BR-GO
-  location:
-    lat: null
-    long: null
+  location: Praça Zaqueu Alves de Castro, nº 01, Goiás 
+    lat: 15°56'01.20"
+    long: 50°08'31.60"
   display: Goiás
 ---
