@@ -1,0 +1,34 @@
+---
+title: Residência Gil Santini Pinto e Albenair Plaza Pinto
+date: 2026-10-29
+author:
+bibliographicCitation:
+- 'Panorama da Arquitetura em Goiás'
+identifier:
+- source: Documentário de casas tradicionais
+  refid: 
+spatial:
+  site:
+    term: BR-GO
+    location:
+      lat: -16.204694
+      lon: -48.705500
+    display: 'Rua Plínio Jaime, 440, St. Santa Fé'
+temporal:
+- type: creation
+  text:
+    headline: Construção
+  start_date:
+    year: 1985
+  display_date: c. 1985
+format:
+  extent:
+    measurements:
+    - type: http://terminology.lido-schema.org/lido00927
+      unit:
+        display: m²
+      extent: area
+      value: 436
+id: 58QG6642+4M7
+---
+
