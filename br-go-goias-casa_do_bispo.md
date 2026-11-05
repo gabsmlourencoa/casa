@@ -8,8 +8,7 @@ identifier:
 spatial:
   site:
     term: BR-GO
-    location:
-      lat: null
-      long: null
+    location: Praça Zaqueu Alves de Castro, nº 1, Centro Histórico, Cidade de Goiás 
+      lat: -15.933667
+      long: -50.142111
     display: Goiás
----
