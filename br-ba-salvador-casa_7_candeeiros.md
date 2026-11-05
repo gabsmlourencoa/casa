@@ -1,21 +1,18 @@
 ---
 title: Casa dos sete candeeiros
-titleType: popular
+title_type: popular
 id: 59V32FFQ+J8J
 author: 0009-0006-7479-6365
 date: 2024-02-11
-excerpt: 'Casa senhorial urbana da segunda metade do século <span style="font-variant:all-small-caps">XVII</span>
-  com cantaria de lioz e silhares azulejados.
-
-  '
+description: 'Casa senhorial urbana da segunda metade do século
+  <span style="font-variant:all-small-caps">XVII</span>
+  com cantaria de lioz e silhares azulejados.'
 header:
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Casa_dos_Sete_Candeeiros_Salvador_2018-1334.jpg/2560px-Casa_dos_Sete_Candeeiros_Salvador_2018-1334.jpg
+  overlay_image: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Casa_dos_Sete_Candeeiros_Salvador_2018-1334.jpg/3840px-Casa_dos_Sete_Candeeiros_Salvador_2018-1334.jpg
   teaser: https://hpip.org/images/hpip/heritage/1161/Casa_dos_Sete_Candeeiros.jpg
   caption: "Foto por <a href=\"https://commons.wikimedia.org/wiki/File:Casa_dos_Sete_Candeeiros_Salvador_2018-1334.jpg\">\n
     \ Paul R. Burley, 2018\n</a>\n"
 identifier:
-- source: UBID
-  refid: 59V32FFQ+M75-5-5-5-5
 - source: SICG Iphan
   refid: BA-2927408-BI-ED-00020
   href: https://sicg.iphan.gov.br/sicg/bem/visualizar/159
@@ -30,8 +27,8 @@ identifier:
 - source: iPatrimônio
   refid: '19526'
   href: https://www.ipatrimonio.org/?p=19526
-bibliographicCitation:
-- '@978-85-7334-172-0'
+bibliographic_citation:
+- refid: '@978-85-7334-172-0'
 contributor:
 - name: Antônio Elias da Fonseca Galvão
   type: personal
@@ -48,37 +45,36 @@ format:
       extent: area
       value: 329
 spatial:
-- type: site
-  term:
-    type: 'local'
-    refid: 'lugar/59V32FHX+7HV'
-    display: 'Salvador, Bahia, Brasil'
-  location:
-    lat: -12.975915665500011
-    lon: -38.511749804
-    alt: 51
+  site:
+    name:
+      type: 'local'
+      refid: 'lugar/59V32FHX+7HV'
+      display: 'Salvador, Bahia, Brasil'
+    location:
+      lat: -12.975915665500011
+      lon: -38.511749804
+      alt: 51
+      source:
+        text: SICG Iphan
+        refid: BA-2927408-BI-ED-00020
+        href: https://sicg.iphan.gov.br/sicg/bem/visualizar/159
+    display: 'rua de São Francisco 3
+
+      rua visconde de Itaparica 8
+
+      Barroquinha'
+    extent:
+      type: Polygon
+      coordinates: '[[[-38.511918957601786, -12.97585704459446], [-38.511686265978774,
+        -12.975744934079126], [-38.51162138913221, -12.975882332673637], [-38.51185494577983,
+        -12.975984327900218], [-38.511918957601786, -12.97585704459446]]]'
+    srs_name:
+      type: uri
+      display: EPSG:4326 WGS84
+      refid: http://www.opengis.net/def/crs/EPSG/0/4326
     source:
-      text: SICG Iphan
-      refid: BA-2927408-BI-ED-00020
-      href: https://sicg.iphan.gov.br/sicg/bem/visualizar/159
-  display: 'rua de São Francisco 3
-
-    rua visconde de Itaparica 8
-
-    Barroquinha'
-- type: site
-  extent:
-    type: Polygon
-    coordinates: '[[[-38.511918957601786, -12.97585704459446], [-38.511686265978774,
-      -12.975744934079126], [-38.51162138913221, -12.975882332673637], [-38.51185494577983,
-      -12.975984327900218], [-38.511918957601786, -12.97585704459446]]]'
-  srsName:
-    type: uri
-    display: EPSG:4326 WGS84
-    refid: http://www.opengis.net/def/crs/EPSG/0/4326
-  source:
-    display: QGIS OpenStreetMap
-    type: corporate
+      display: QGIS OpenStreetMap
+      type: corporate
 temporal:
 - type: creation
   text:
