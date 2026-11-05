@@ -12,4 +12,4 @@ spatial:
       lat: -15.933667
       long: -50.142111
     display: Goiás
-  ---
+  -
